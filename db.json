@@ -1,0 +1,157 @@
+{
+    "apps": [{
+        "id": "siis",
+        "name": "SIIS Group",
+        "logo": "http://siis.sggt.com:7008/assets/logo_default.svg",
+        "slogan": "Aprende y diviértete jugando"
+    }],
+    "users": [{
+        "id": 1,
+        "email": "dualipa@gmail.com",
+        "password": "123456",
+        "name": "Dua Lipa",
+        "avatar": "woman-11.svg",
+        "role": "player",
+        "jobTitle": "Contador Público",
+        "jobArea": "Recursos Humanos",
+        "credits": 100,
+        "challenges": 2,
+        "rewards": 0
+    }],
+    "challenges": [{
+            "id": 1,
+            "userId": 1,
+            "credits": 100,
+            "bonus": 100,
+            "progress": 0,
+            "currentQuestion": 1,
+            "expiration": "8 horas",
+            "isExpired": false,
+            "theme": "green",
+            "title": "😱 Accidentes y riesgos laborales",
+            "rewardDescription": "Ganas un día de compensatorio",
+            "senderAvatar": "man-23.svg",
+            "senderName": "Sean Paul",
+            "legend": "¿Te has preguntado porque te duele tanto el cuello y los hombros?",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+        },
+        {
+            "id": 2,
+            "userId": 1,
+            "credits": 100,
+            "bonus": 100,
+            "progress": 0,
+            "currentQuestion": 1,
+            "expiration": "4 Dias",
+            "isExpired": true,
+            "theme": "red",
+            "title": "🚁 Los riesgos en las alturas",
+            "rewardDescription": "Pases dobles para cinecolombia",
+            "senderAvatar": "man-23.svg",
+            "senderName": "Sean Paul",
+            "legend": "No estás excento de riesgos solo porque no trabajas en alturas 😉",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+        }
+    ],
+    "stages": [{
+        "id": 1,
+        "order": 1,
+        "challengeId": 1,
+        "questions": [{
+                "id": 1,
+                "order": 1,
+                "type": 1,
+                "credits": 25,
+                "bonus": 25,
+                "completion": 25,
+                "legend": "¿Cuál de las siguientes opciones consideras es un riesgo en alturas?",
+                "content": "<h3>Refuerza tus conocimientos: </h3> <p>Durante estos últimos años la tecnología, materiales y técnicas de trabajo han desarrollado una gran evolución, y más todavía en los sectores específicos que conllevan riesgos derivados de la realización de trabajos en altura, esto ha sido gracias a la concienciación de las empresas y sus trabajadores por su seguridad laboral. Pero debemos aprender a aplicar y utilizar esta tecnología y estos materiales de una forma correcta, de modo que se puedan realizar los trabajos sin ningún riesgo.</p> <iframe width=\"100%\" height=\"auto\" src=\"https://www.youtube.com/embed/FAk5YvtLVu4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "answers": [{
+                        "id": 1,
+                        "title": "1. No usar casco"
+                    },
+                    {
+                        "id": 2,
+                        "title": "2. No usar botas"
+                    },
+                    {
+                        "id": 3,
+                        "title": "3. No usar guantes"
+                    },
+                    {
+                        "id": 4,
+                        "title": "4. No usar arnés",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 5,
+                        "title": "5. No almorzar"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "order": 2,
+                "type": 2,
+                "credits": 25,
+                "bonus": 25,
+                "completion": 50,
+                "legend": "Ordena los pasos para una correcta evaluación de riesgos",
+                "answers": [{
+                        "id": 1,
+                        "title": "1. Identificar peligros",
+                        "content": "<h3>Esta debe ir de primeras 😎</h3>"
+                    },
+                    {
+                        "id": 2,
+                        "title": "2. Buscar personas vulnerables",
+                        "content": "<h3>Esta debe ir de segundas ✌️</h3>"
+                    },
+                    {
+                        "id": 3,
+                        "title": "3. Evaluar el riesgo",
+                        "content": "<h3>Esta debe ir de terceras ️🤓</h3>"
+                    },
+                    {
+                        "id": 4,
+                        "title": "4. Nombrar líderes responsables",
+                        "content": "<h3>Esta debe ir de cuartas 👀</h3>"
+                    },
+                    {
+                        "id": 5,
+                        "title": "5. Registrar los resultados",
+                        "content": "<h3>Esta debe ir de quintas ✋</h3>"
+                    },
+                    {
+                        "id": 6,
+                        "title": "6. Seguimiento periodico",
+                        "content": "<h3>Esta debe ir de sextas 🔥</h3>"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "order": 3,
+                "type": 1,
+                "credits": 25,
+                "bonus": 25,
+                "completion": 25,
+                "legend": "Desmuestra cuanto has aprendido 💪 ¿Qué NO se considera un accidente laboral?",
+                "answers": [{
+                        "id": 1,
+                        "title": "1. Lesión corporal"
+                    },
+                    {
+                        "id": 2,
+                        "title": "2. Accidente por fenomeno natural",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "title": "4. Enfermedades profesionales"
+                    }
+                ]
+            }
+        ]
+    }]
+}
