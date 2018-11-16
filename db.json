@@ -2,7 +2,7 @@
     "apps": [{
         "id": "siis",
         "name": "SIIS Group",
-        "logo": "http://siis.sggt.com:7008/assets/logo_default.svg",
+        "logo": "https://github.com/TecnoGestionLtda/sggt/blob/master/src/assets/logo_default.svg",
         "slogan": "Aprende y diviértete jugando"
     }],
     "users": [{
