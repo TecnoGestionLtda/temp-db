@@ -13,10 +13,7 @@
         "avatar": "woman-11.svg",
         "role": "player",
         "jobTitle": "Contador Público",
-        "jobArea": "Recursos Humanos",
-        "credits": 100,
-        "challenges": 2,
-        "rewards": 0
+        "jobArea": "Recursos Humanos"
     }],
     "challenges": [{
             "id": 1,
