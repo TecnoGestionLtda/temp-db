@@ -22,7 +22,7 @@
             "bonus": 100,
             "progress": 0,
             "currentQuestion": 1,
-            "expiration": "8 horas",
+            "expiration": "9 horas",
             "isExpired": false,
             "theme": "green",
             "title": "😱 Accidentes y riesgos laborales",
