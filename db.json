@@ -51,7 +51,7 @@
             "userId": 1,
             "credits": 100,
             "bonus": 100,
-            "progress": 1,
+            "progress": 0,
             "currentQuestion": 1,
             "expiration": "8 horas",
             "isExpired": false,
