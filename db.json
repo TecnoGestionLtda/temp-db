@@ -8,7 +8,7 @@
     "users": [
     {
         "id": 1,
-        "email": "administrador@ssisgroup.com",
+        "email": "usuario@gmail.com",
         "password": "123456",
         "name": "Tatiana Cuellar",
         "avatar": "woman-5.svg",
@@ -45,7 +45,18 @@
         "role": "player",
         "jobTitle": "Secretaria Contable",
         "jobArea": "Contabilidad y Finanzas"
-    }],
+    },
+    {
+        "id": 5,
+        "email": "administrador@siisgroup.com",
+        "password": "123456",
+        "name": "Eduardo Hernández",
+        "avatar": "man-5.svg",
+        "role": "player",
+        "jobTitle": "Director de tecnología",
+        "jobArea": "Sistemas"
+    }
+    ],
     "challenges": [{
             "id": 1,
             "userId": 1,
@@ -129,7 +140,7 @@
                     },
                     {
                         "id": 3,
-                        "title": "El trabajador estará siempre asegurado a un punto de anclaje. Si las características del entorno no lo permiten, asegurar los sistemas de ascenso y descenso con manilas, cuerdas etc. El ayudante debe permanecer sujetando la escalera y el trabajador que realiza el trabajo en alturas asumirá una conducta segura frente a la labor.",
+                        "title": "El trabajador estará siempre asegurado a un punto de anclaje.",
                         "content": "<h3>Esta debe ir de terceras ️🤓</h3>"
                     },
                     {
