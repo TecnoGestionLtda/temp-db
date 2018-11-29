@@ -10,11 +10,11 @@
         "id": 1,
         "email": "usuario@gmail.com",
         "password": "123456",
-        "name": "Tatiana Cuellar",
-        "avatar": "woman-5.svg",
+        "name": "EDWIN RUIZ",
+        "avatar": "man-5.svg",
         "role": "player",
-        "jobTitle": "Contador Público",
-        "jobArea": "Recursos Humanos"
+        "jobTitle": "TECNICO EN INSTALACIONES Y MANTENIMIENTO",
+        "jobArea": "INSTALACIONES ELECTRICAS"
     },
     {
         "id": 2,
@@ -67,7 +67,7 @@
             "expiration": "8 horas",
             "isExpired": false,
             "theme": "green",
-            "title": "😱 Fractura de miembros inferiores",
+            "title": "😱 Trabajo en alturas",
             "rewardDescription": "Ganas un día de compensatorio",
             "senderAvatar": "woman-9.svg",
             "senderName": "Natalia Sánchez",
@@ -103,20 +103,28 @@
                 "credits": 25,
                 "bonus": 25,
                 "completion": 25,
-                "legend": "De acuerdo con los protocolos aprendidos en la brigada de primeros auxilios, frente a una fractura de miembros inferiores debes tomar la siguiente decisión:",
+                "legend": "!Hola Edwin! El proyecto de este mes es trabajo en alturas exige cuidados especiales para evitar una..&%?&!",
                 "content": "<h3>Módulo de formación: </h3> <p>Los desplazamientos sobre superficies horizontales u oblicuas (con ángulo) en lugares donde no existen muros o barandas de protección permanentes en su perímetro, también serán considerados trabajo en alturas, con el fin de proteger la integridad física del personal que realiza estas labores y evitar lesiones o pérdidas en vidas humanas y daños materiales.</p> <iframe width=\"100%\" height=\"auto\" src=\"https://www.youtube.com/embed/FAk5YvtLVu4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
                 "answers": [{
                         "id": 1,
-                        "title": "Llamar a los brigadistas para atender el accidente."
+                        "title": "Túnel del carpio"
                     },
                     {
                         "id": 2,
-                        "title": "Inmovilizar a la persona y proceder a entablillar."
+                        "title": "Tortículis"
                     },
                     {
                         "id": 3,
-                        "title": "Estabilizar  a la persona accidentada y proceder con la evacuación.",
+                        "title": "Fractura de miembros inferiores",
                         "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "title": "Hipertensión",
+                    },
+                    {
+                        "id": 5,
+                        "title": "Ansiedad",
                     }
                 ]
             },
