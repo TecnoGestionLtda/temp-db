@@ -142,11 +142,35 @@
             {
                 "id": 3,
                 "order": 3,
+                "type": 1,
+                "credits": 25,
+                "bonus": 25,
+                "completion": 25,
+                "legend": "De acuerdo con los protocolos aprendidos frente a una fractura de miembros inferiores debes tomar la siguiente decisión",
+                "content": "",
+                "answers": [{
+                        "id": 1,
+                        "title": "Llamar a los brigadistas para atender el accidente"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Inmovilizar a la persona y proceder a estabilizar",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "title": "Estabilizar a la persona acccidentada y proceder a limpiar la herida"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "order": 4,
                 "type": 2,
                 "credits": 25,
                 "bonus": 25,
-                "completion": 50,
-                "legend": "ATS",
+                "completion": 25,
+                "legend": "ATS, Ahora debes analizar la ruta de trabajo seguro, tienes un número limitado de intentos así que aprovecha tus conocimientos",
                 "answers": [{
                         "id": 1,
                         "title": "Realizar inspección al área para detectar peligros y tomar medidas de seguridad (evidencia ATS).",
@@ -180,8 +204,8 @@
                 ]
             },
             {
-                "id": 4,
-                "order": 4,
+                "id": 5,
+                "order": 5,
                 "type": 1,
                 "credits": 25,
                 "bonus": 25,
