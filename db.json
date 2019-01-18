@@ -100,10 +100,21 @@
                 "id": 1,
                 "order": 1,
                 "type": 1,
+                "credits": 0,
+                "bonus": 0,
+                "completion": 0,
+                "legend": "!Hola! El proyecto de este mes es trabajo en alturas exige cuidados especiales para evitar una..&%?&!",
+                "content": "",
+                "answers": []
+            },
+                      {
+                "id": 2,
+                "order": 2,
+                "type": 1,
                 "credits": 25,
                 "bonus": 25,
                 "completion": 25,
-                "legend": "!Hola Edwin! El proyecto de este mes es trabajo en alturas exige cuidados especiales para evitar una..&%?&!",
+                "legend": "",
                 "content": "<h3>Módulo de formación: </h3> <p>Los desplazamientos sobre superficies horizontales u oblicuas (con ángulo) en lugares donde no existen muros o barandas de protección permanentes en su perímetro, también serán considerados trabajo en alturas, con el fin de proteger la integridad física del personal que realiza estas labores y evitar lesiones o pérdidas en vidas humanas y daños materiales.</p> <iframe width=\"100%\" height=\"auto\" src=\"https://www.youtube.com/embed/FAk5YvtLVu4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
                 "answers": [{
                         "id": 1,
@@ -129,8 +140,8 @@
                 ]
             },
             {
-                "id": 2,
-                "order": 2,
+                "id": 3,
+                "order": 3,
                 "type": 2,
                 "credits": 25,
                 "bonus": 25,
@@ -169,8 +180,8 @@
                 ]
             },
             {
-                "id": 3,
-                "order": 3,
+                "id": 4,
+                "order": 4,
                 "type": 1,
                 "credits": 25,
                 "bonus": 25,
